@@ -1,0 +1,8 @@
+C:\Users\pmanso\Desktop\RoundedForm\RoundedForm\RoundedForm\bin\Debug\RoundedForm.exe
+C:\Users\pmanso\Desktop\RoundedForm\RoundedForm\RoundedForm\bin\Debug\RoundedForm.pdb
+C:\Users\pmanso\Desktop\RoundedForm\RoundedForm\RoundedForm\obj\Debug\RoundedForm.csprojResolveAssemblyReference.cache
+C:\Users\pmanso\Desktop\RoundedForm\RoundedForm\RoundedForm\obj\Debug\RoundedForm.Form1.resources
+C:\Users\pmanso\Desktop\RoundedForm\RoundedForm\RoundedForm\obj\Debug\RoundedForm.Properties.Resources.resources
+C:\Users\pmanso\Desktop\RoundedForm\RoundedForm\RoundedForm\obj\Debug\RoundedForm.csproj.GenerateResource.Cache
+C:\Users\pmanso\Desktop\RoundedForm\RoundedForm\RoundedForm\obj\Debug\RoundedForm.exe
+C:\Users\pmanso\Desktop\RoundedForm\RoundedForm\RoundedForm\obj\Debug\RoundedForm.pdb
